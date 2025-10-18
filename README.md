@@ -110,9 +110,8 @@ It serves as a strong foundation for more advanced data science tasks, such as m
 
 ## 👨‍💻 Author
 **Suraj Parida**  
-📧 Email: [contact.mainflow@gmail.com](mailto:contact.mainflow@gmail.com)  
+📧 Email: [contact.mainflow@gmail.com](surajparida9191@gmail.com)  
 📍 Main Flow Services and Technologies Pvt. Ltd.  
-🌐 [www.mainflow.in](https://www.mainflow.in)
 
 ---
 
