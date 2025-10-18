@@ -1,4 +1,3 @@
-# 🧠 Data Analysis and Data Science Using Python 
 # Student-Performance-Analysis 
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
