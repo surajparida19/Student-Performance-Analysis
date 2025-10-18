@@ -108,10 +108,16 @@ It serves as a strong foundation for more advanced data science tasks, such as m
 
 ---
 
-## 👨‍💻 Author
-**Suraj Parida**  
-📧 Email: [contact.mainflow@gmail.com](surajparida9191@gmail.com)  
-📍 Main Flow Services and Technologies Pvt. Ltd.  
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 📬 Contact
+
+📧 **Suraj Parida** — [surajparida9191@gmail.com](surajparida9191@gmail.com)
+🔗 [LinkedIn]([https://www.linkedin.com/in/surajparida19/]) | [GitHub](https://github.com/surajparida19)
+
 
 ---
 
